@@ -1,0 +1,225 @@
+2013-08-09 08:19:48,580 - [INFO] - from play in main 
+Application started (Prod)
+
+2013-08-09 08:19:48,661 - [INFO] - from play in main 
+Listening for HTTP on /127.0.0.1:8888
+
+2013-08-09 08:19:53,064 - [INFO] - from application in default-akka.actor.default-dispatcher-5 
+WebSocket streams created
+
+2013-08-09 08:19:53,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-2 
+Checking mime type for /home/noootsab/octave-core, found: application/octet-stream
+
+2013-08-09 08:19:53,211 - [DEBUG] - from application in play-akka.actor.default-dispatcher-2 
+Checking mime type for /home/noootsab/Downloads (1), found: application/pdf
+
+2013-08-09 08:55:59,047 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+sbt told us the name is: 'angular-seed-play'
+
+2013-08-09 08:55:59,056 - [DEBUG] - from application in play-akka.actor.default-dispatcher-4 
+Stopping sbt child because we got our app config or error Success(ProcessSuccess(AppConfig(/home/noootsab/belighted-pre,angular-seed-play,Some(angular-seed-play))))
+
+2013-08-09 08:55:59,382 - [INFO] - from application in New I/O worker #5 
+Connect request for app id: angular-seed-play
+
+2013-08-09 08:55:59,386 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+WebSocket streams created
+
+2013-08-09 08:55:59,808 - [DEBUG] - from application in play-akka.actor.default-dispatcher-11 
+Checking mime type for /home/noootsab/belighted-pre/activator-launch-0.2.6.jar, found: application/zip
+
+2013-08-09 08:55:59,815 - [DEBUG] - from application in play-akka.actor.default-dispatcher-11 
+Checking mime type for /home/noootsab/belighted-pre/activator, found: application/x-shellscript
+
+2013-08-09 08:55:59,819 - [DEBUG] - from application in play-akka.actor.default-dispatcher-11 
+Checking mime type for /home/noootsab/belighted-pre/LICENSE, found: application/octet-stream
+
+2013-08-09 08:56:04,608 - [DEBUG] - from application in ForkJoinPool-3-worker-3 
+Sending app actor 4 source files
+
+2013-08-09 08:56:34,506 - [DEBUG] - from application in ForkJoinPool-3-worker-8 
+Sending app actor 4 source files
+
+2013-08-09 08:57:23,143 - [INFO] - from application in New I/O worker #1 
+Connect request for app id: angular-seed-play
+
+2013-08-09 08:57:23,144 - [INFO] - from application in play-akka.actor.default-dispatcher-15 
+WebSocket streams created
+
+2013-08-09 08:57:23,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-16 
+Checking mime type for /home/noootsab/belighted-pre/activator-launch-0.2.6.jar, found: application/zip
+
+2013-08-09 08:57:23,569 - [DEBUG] - from application in play-akka.actor.default-dispatcher-16 
+Checking mime type for /home/noootsab/belighted-pre/activator, found: application/x-shellscript
+
+2013-08-09 08:57:23,572 - [DEBUG] - from application in play-akka.actor.default-dispatcher-16 
+Checking mime type for /home/noootsab/belighted-pre/LICENSE, found: application/octet-stream
+
+2013-08-09 08:57:28,111 - [DEBUG] - from application in ForkJoinPool-3-worker-9 
+Sending app actor 5 source files
+
+2013-08-09 08:57:29,221 - [DEBUG] - from application in ForkJoinPool-3-worker-14 
+Sending app actor 5 source files
+
+2013-08-09 17:02:35,450 - [INFO] - from application in Thread-4 
+onStop received closing down the app
+
+2013-08-09 17:02:35,451 - [WARN] - from application in Thread-4 
+AppManager onApplicationStop is disabled pending some refactoring so it works with FakeApplication in tests
+
+2013-08-09 22:56:37,210 - [INFO] - from play in main 
+Application started (Prod)
+
+2013-08-09 22:56:37,330 - [INFO] - from play in main 
+Listening for HTTP on /127.0.0.1:8888
+
+2013-08-09 22:56:41,933 - [INFO] - from application in default-akka.actor.default-dispatcher-4 
+WebSocket streams created
+
+2013-08-09 22:56:42,090 - [DEBUG] - from application in play-akka.actor.default-dispatcher-4 
+Checking mime type for /home/noootsab/octave-core, found: application/octet-stream
+
+2013-08-09 22:56:42,094 - [DEBUG] - from application in play-akka.actor.default-dispatcher-4 
+Checking mime type for /home/noootsab/Downloads (1), found: application/pdf
+
+2013-08-09 22:58:17,206 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+sbt told us the name is: 'six-minute-apps'
+
+2013-08-09 22:58:17,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-2 
+Stopping sbt child because we got our app config or error Success(ProcessSuccess(AppConfig(/home/noootsab/src/betest,six-minute-apps,Some(six-minute-apps))))
+
+2013-08-09 22:58:17,847 - [INFO] - from application in New I/O worker #2 
+Connect request for app id: six-minute-apps
+
+2013-08-09 22:58:17,850 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+WebSocket streams created
+
+2013-08-09 22:58:18,298 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+Checking mime type for /home/noootsab/src/betest/activator-launch-0.2.6.jar, found: application/zip
+
+2013-08-09 22:58:18,301 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+Checking mime type for /home/noootsab/src/betest/activator, found: application/x-shellscript
+
+2013-08-09 22:58:18,309 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+Checking mime type for /home/noootsab/src/betest/LICENSE, found: application/octet-stream
+
+2013-08-09 22:58:24,047 - [DEBUG] - from application in ForkJoinPool-3-worker-5 
+Sending app actor 14 source files
+
+2013-08-09 22:59:06,505 - [DEBUG] - from application in ForkJoinPool-3-worker-9 
+Sending app actor 14 source files
+
+2013-08-09 23:04:06,322 - [DEBUG] - from application in ForkJoinPool-3-worker-12 
+Sending app actor 14 source files
+
+2013-08-09 23:06:02,332 - [INFO] - from application in Thread-8 
+onStop received closing down the app
+
+2013-08-09 23:06:02,333 - [WARN] - from application in Thread-8 
+AppManager onApplicationStop is disabled pending some refactoring so it works with FakeApplication in tests
+
+2013-08-10 10:41:40,881 - [INFO] - from play in main 
+Application started (Prod)
+
+2013-08-10 10:41:40,974 - [INFO] - from play in main 
+Listening for HTTP on /127.0.0.1:8888
+
+2013-08-10 10:41:45,750 - [INFO] - from application in default-akka.actor.default-dispatcher-4 
+WebSocket streams created
+
+2013-08-10 10:41:45,932 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+Checking mime type for /home/noootsab/octave-core, found: application/octet-stream
+
+2013-08-10 10:41:45,936 - [DEBUG] - from application in play-akka.actor.default-dispatcher-8 
+Checking mime type for /home/noootsab/Downloads (1), found: application/pdf
+
+2013-08-10 10:42:06,600 - [INFO] - from application in Thread-8 
+onStop received closing down the app
+
+2013-08-10 10:42:06,603 - [WARN] - from application in Thread-8 
+AppManager onApplicationStop is disabled pending some refactoring so it works with FakeApplication in tests
+
+2013-08-10 10:43:40,638 - [INFO] - from play in main 
+Application started (Prod)
+
+2013-08-10 10:43:40,726 - [INFO] - from play in main 
+Listening for HTTP on /127.0.0.1:8888
+
+2013-08-10 10:43:43,756 - [INFO] - from application in default-akka.actor.default-dispatcher-4 
+WebSocket streams created
+
+2013-08-10 10:43:43,907 - [DEBUG] - from application in play-akka.actor.default-dispatcher-5 
+Checking mime type for /home/noootsab/octave-core, found: application/octet-stream
+
+2013-08-10 10:43:43,911 - [DEBUG] - from application in play-akka.actor.default-dispatcher-5 
+Checking mime type for /home/noootsab/Downloads (1), found: application/pdf
+
+2013-08-10 10:48:27,066 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+sbt told us the name is: 'sse-chat'
+
+2013-08-10 10:48:27,082 - [DEBUG] - from application in play-akka.actor.default-dispatcher-3 
+Stopping sbt child because we got our app config or error Success(ProcessSuccess(AppConfig(/home/noootsab/belighted-pre,sse-chat,Some(sse-chat))))
+
+2013-08-10 10:48:27,626 - [INFO] - from application in New I/O worker #2 
+Connect request for app id: sse-chat
+
+2013-08-10 10:48:27,629 - [INFO] - from application in play-akka.actor.default-dispatcher-9 
+WebSocket streams created
+
+2013-08-10 10:48:28,100 - [DEBUG] - from application in play-akka.actor.default-dispatcher-10 
+Checking mime type for /home/noootsab/belighted-pre/activator-launch-0.2.6.jar, found: application/zip
+
+2013-08-10 10:48:28,104 - [DEBUG] - from application in play-akka.actor.default-dispatcher-10 
+Checking mime type for /home/noootsab/belighted-pre/activator, found: application/x-shellscript
+
+2013-08-10 10:48:28,109 - [DEBUG] - from application in play-akka.actor.default-dispatcher-10 
+Checking mime type for /home/noootsab/belighted-pre/LICENSE, found: application/octet-stream
+
+2013-08-10 10:48:32,850 - [DEBUG] - from application in ForkJoinPool-3-worker-6 
+Sending app actor 14 source files
+
+2013-08-10 10:48:59,666 - [DEBUG] - from application in ForkJoinPool-3-worker-9 
+Sending app actor 14 source files
+
+2013-08-10 11:06:17,507 - [INFO] - from application in default-akka.actor.default-dispatcher-14 
+WebSocket streams created
+
+2013-08-10 11:06:17,610 - [DEBUG] - from application in play-akka.actor.default-dispatcher-38 
+Checking mime type for /home/noootsab/octave-core, found: application/octet-stream
+
+2013-08-10 11:06:17,614 - [DEBUG] - from application in play-akka.actor.default-dispatcher-38 
+Checking mime type for /home/noootsab/Downloads (1), found: application/pdf
+
+2013-08-10 11:07:10,424 - [INFO] - from application in play-akka.actor.default-dispatcher-35 
+sbt told us the name is: 'six-minute-apps'
+
+2013-08-10 11:07:10,429 - [DEBUG] - from application in play-akka.actor.default-dispatcher-35 
+Stopping sbt child because we got our app config or error Success(ProcessSuccess(AppConfig(/home/noootsab/jw6app,six-minute-apps,Some(six-minute-apps))))
+
+2013-08-10 11:07:13,031 - [INFO] - from application in New I/O worker #2 
+Connect request for app id: six-minute-apps
+
+2013-08-10 11:07:13,033 - [INFO] - from application in play-akka.actor.default-dispatcher-35 
+WebSocket streams created
+
+2013-08-10 11:07:16,000 - [DEBUG] - from application in play-akka.actor.default-dispatcher-41 
+Checking mime type for /home/noootsab/jw6app/activator-launch-0.2.6.jar, found: application/zip
+
+2013-08-10 11:07:16,006 - [DEBUG] - from application in play-akka.actor.default-dispatcher-41 
+Checking mime type for /home/noootsab/jw6app/activator, found: application/x-shellscript
+
+2013-08-10 11:07:16,010 - [DEBUG] - from application in play-akka.actor.default-dispatcher-41 
+Checking mime type for /home/noootsab/jw6app/LICENSE, found: application/octet-stream
+
+2013-08-10 11:07:20,860 - [DEBUG] - from application in ForkJoinPool-3-worker-2 
+Sending app actor 14 source files
+
+2013-08-10 11:07:43,712 - [DEBUG] - from application in ForkJoinPool-3-worker-18 
+Sending app actor 14 source files
+
+2013-08-10 15:49:25,747 - [INFO] - from application in Thread-8 
+onStop received closing down the app
+
+2013-08-10 15:49:25,748 - [WARN] - from application in Thread-8 
+AppManager onApplicationStop is disabled pending some refactoring so it works with FakeApplication in tests
+
